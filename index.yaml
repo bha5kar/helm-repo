@@ -3,12 +3,12 @@ entries:
   fe:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-07-19T22:42:23.266157707+05:30"
+    created: "2025-07-19T22:45:14.934643164+05:30"
     description: A Helm chart for Kubernetes
-    digest: 1b76d9304f8302c154cd8c5b3dd6ba55518ec1f56c666db9e154eb1af3652ae9
+    digest: 69f3d684930c37c57d7c9ecb5c9b41763d0f1c2f78579d9086292e2fabc74b3f
     name: fe
     type: application
     urls:
     - fe-0.1.0.tgz
     version: 0.1.0
-generated: "2025-07-19T22:42:23.26558427+05:30"
+generated: "2025-07-19T22:45:14.934210723+05:30"
