@@ -8,7 +8,7 @@ metadata:
     traefik.ingress.kubernetes.io/router.entrypoints: web
 spec:
   rules:
-  - host: my-frontend.local
+  - host: ip172-18-0-3-d1tth5qki0og00e8bm7g.direct.labs.play-with-k8s.com
     http:
       paths:
       - path: /
