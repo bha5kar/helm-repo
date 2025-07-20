@@ -1,9 +1,20 @@
 apiVersion: v1
 entries:
+  cat:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-07-20T17:57:09.295666283+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 83489901d850957fa4bc86cfa09cae4d92bdcdc5a6b98d01781b89e3b050ac3b
+    name: cat
+    type: application
+    urls:
+    - cat-0.1.0.tgz
+    version: 0.1.0
   fe:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-07-19T23:26:06.657186075+05:30"
+    created: "2025-07-20T17:57:09.295914755+05:30"
     description: A Helm chart for Kubernetes
     digest: 16f21423d15a3c04c39265bfcac40b7112d1bde62053bfe031148afe673f4144
     name: fe
@@ -11,4 +22,26 @@ entries:
     urls:
     - fe-0.1.0.tgz
     version: 0.1.0
-generated: "2025-07-19T23:26:06.656740176+05:30"
+  rc:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-07-20T17:57:09.296205031+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 25248c8ee44d0c801cc7a2cfdde066728c4746bb021b99c044fab020677f229a
+    name: rc
+    type: application
+    urls:
+    - rc-0.1.0.tgz
+    version: 0.1.0
+  vo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-07-20T17:57:09.296424303+05:30"
+    description: A Helm chart for Kubernetes
+    digest: fbde2884d72b7b31c0f77604174b151a0fa76309739373a90261b9f3729b35e6
+    name: vo
+    type: application
+    urls:
+    - vo-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-07-20T17:57:09.295250774+05:30"
